@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="row">
+    {% assign art_order = (site.art | sort: 'order') %}
+    {% for art in art_order %}
+    <div class="small-12 medium-4 columns thumbnail-tile">
+        <a class="post-link" href="{{ illustration.url | prepend: site.baseurl }}">
+            <div class="thumbnail-container">
+            <img class="thumbnail-image" src="img/thumbnails/{{ illustration.thumbnail }}">
+            <span class="thumbnail-text">{{ art.tile-name }}</span>
+            </div>
+        </a>
+    </div>
+    {% endfor %}
+</div>

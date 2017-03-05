@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900');
+
+html,body{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: black;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nav{
+  font-size: 24px;
+  margin-top: 25px;
+  text-align: right;
+}
+
+.nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+}
+
+.nav a:hover{
+  color: #67C9D3;
+}
+
+a{
+  color: #67C9D3;
+}
+
+a:hover{
+  color: #46B2B7;
+}
+
+header{
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #ECECEC;
+    /*text-align: center;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #b5b5b5; 
+}
+
+.rehanLogo{
+  height: 18px;
+}
+
+.DCfooterLogo{
+  height: 30px;
+}
+
+.image-container {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.thumbnail-container {
+    position: relative;
+    display: block;
+    background-color: #000;
+    opacity: 1;
+}
+
+.thumbnail-container:hover .thumbnail-text {
+    opacity: 1;
+}
+
+.thumbnail-container:hover .thumbnail-image {
+    opacity: 0.8;
+}
+
+.thumbnail-image {
+  width: 100%;
+}
+
+.thumbnail-text {
+    position: absolute;
+    bottom: 20px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    color: #FFF;
+    opacity: 0;
+    text-shadow: 0px 0px 5px rgba(50, 50, 50, 1);
+    font-size: 33px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.thumbnail-tile {
+    margin-bottom: 30px;
+}
+
+.banner {
+    position: absolute;
+    top: 10px;
+    left: -10px;
+    padding: 5px 20px 5px 20px;
+    font-weight: 700;
+    background-color: #67C9D3;
+    color: white;
+}
+
+.aboutButton {
+    width: 100%;
+    background-color: #67C9D3;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.aboutButton:hover {
+    background-color: #46B2B7;
+}
+
+.noSelect{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    user-drag: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+}
+
+.bio {
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footerLeft{
+  text-align: left;
+}
+
+.footerRight{
+  text-align: right;
+}
+
+/*for mobile friendly styling*/
+@media screen and (max-width: 40em) {
+  .footerLeft, .footerRight{
+    text-align: center;
+  }
+}
