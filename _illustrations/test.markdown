@@ -2,9 +2,9 @@
 layout: post
 title:  "this is a test"
 tile-name: "Testing"
-thumbnail: "http://placehold.it/370x370"
+thumbnail: "stickerThumbnail.png"
 date: 2016-12-12
-order: 1
+order: 2
 ---
 
 ![Hero Image](/img/resilientPorosity-yg/hero.png)
