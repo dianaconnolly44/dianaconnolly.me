@@ -5,6 +5,10 @@ html,body{
   color: black;
 }
 
+h1, h2, h3, h4, h5{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 .nav{
   font-size: 24px;
   margin-top: 25px;
@@ -95,7 +99,7 @@ footer {
     left: -10px;
     padding: 5px 20px 5px 20px;
     font-weight: 700;
-    background-color: #12abc4;
+    background-color: #67C9D3;
     color: white;
 }
 
