@@ -3,7 +3,6 @@ layout: post
 title:  "this is a test"
 tile-name: "Testing"
 thumbnail: "http://placehold.it/370x370"
-date: 2016-12-12
 order: 3
 ---
 
