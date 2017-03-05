@@ -103,6 +103,23 @@ footer {
     color: white;
 }
 
+.aboutButton {
+    width: 100%;
+    background-color: #67C9D3;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.aboutButton:hover {
+    background-color: #46B2B7;
+}
+
 .noSelect{
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -112,6 +129,12 @@ footer {
     user-drag: none;
     -moz-user-select: none;
     -webkit-user-drag: none;
+}
+
+.bio {
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .footerLeft{
