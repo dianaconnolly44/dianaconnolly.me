@@ -99,12 +99,8 @@ footer {
     left: -10px;
     padding: 5px 20px 5px 20px;
     font-weight: 700;
-    background-color: #12abc4;
+    background-color: #67C9D3;
     color: white;
-}
-
-.post-meta{
-    margin-top: -10px;
 }
 
 .noSelect{
