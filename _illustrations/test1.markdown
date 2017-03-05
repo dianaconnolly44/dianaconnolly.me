@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "this is a test"
-tile-name: "Testing"
+title:  "Color Unity"
+tile-name: "Color Unity"
 thumbnail: "unityThumbnail.png"
 order: 1
 ---
 
-![Hero Image](/img/resilientPorosity-yg/hero.png)
+![Girl in purple](/img/unity.png)
 
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, this implies blurring edges, rethinking boundaries and allowing for more porous transitions between in- and outside. Such spatial qualities are not new to East Liberty, but in fact result from careful observations of the existing urban milieu. The project ‘Resilient Porosity’ aims at enhancing the existing structure of East Liberty by providing a network of public spaces where people of different classes, races and interests can mix in small scale neighborhood clusters.
+HAI.
