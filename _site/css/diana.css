@@ -25,6 +25,10 @@ h1, h2, h3, h4, h5{
   color: #67C9D3;
 }
 
+.nav a:active{
+  text-decoration: underline;
+}
+
 a{
   color: #67C9D3;
 }
@@ -154,4 +158,9 @@ footer {
   .footerLeft, .footerRight{
     text-align: center;
   }
+}
+
+.row{
+  padding-left: 10px;
+  padding-right: 10px;
 }
