@@ -7,7 +7,7 @@ order: 3
 ---
 <div class="small-12 medium-6 large-8">
 
-![Hero Image](/img/colorHair.png)
+![Girl in 2 lighting conditions](/img/colorHair.png)
 
 </div>
 
