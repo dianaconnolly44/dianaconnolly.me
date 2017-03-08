@@ -6,6 +6,8 @@ thumbnail: "unityThumbnail.png"
 order: 1
 ---
 
+These images were created as a study of color unity....
+
 ![Girl in purple](/img/unity.png)
 
 HAI.
