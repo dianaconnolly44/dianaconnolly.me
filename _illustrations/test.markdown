@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "this is a test"
-tile-name: "Testing"
+title:  "Jewish Prayer Symbols"
+tile-name: "Jewish Symbols"
 thumbnail: "stickerThumbnail.png"
 order: 2
 ---
