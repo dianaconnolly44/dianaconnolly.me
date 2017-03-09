@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "this is a COLOR"
-tile-name: "COLOR"
+title:  "Lighting Color Study"
+tile-name: "Lighting Study"
 thumbnail: "lightingThumbnail.png"
 order: 3
 ---

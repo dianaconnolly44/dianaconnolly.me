@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Color Unity"
-tile-name: "Color Unity"
+title:  "Color Unity Studies"
+tile-name: "Color Unity Studies"
 thumbnail: "unityThumbnail.png"
 order: 1
 ---
