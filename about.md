@@ -21,10 +21,11 @@ title: About
 
 <div class="small-12 medium-7 columns">
     <div class="bio">
-        <p>“Art is not what you see, but what you make others see.” 
--Edgar Degas</p> 
-<p>
-Diana is currently a senior in the BXA Program at Carnegie Mellon University pursuing a Bachelor of Humanities and Arts (BHA) dual degree in Cognitive Neuroscience and Art. She is interested in the cross between these two areas of study, particularly in learning how to create the most effective visuals. She is currently searching for a post-graduation (May 2017) position that fits her interests, with special interest in illustration and graphic arts because they aim to aide communication through the use of making effective visuals.</p>
+        <p>Hi! My name is Diana Connolly, and I am a California girl who's found herself in the lively 'Steel City' of Pittsburgh, PA.
+
+      Currently a senior at Carnegie Mellon University, I am pursuing a Bachelor of Humanities and Arts (BHA) dual degree in Cognitive Neuroscience and Art. I am interested in the cross between these two areas of study, particularly in learning how to create the most effective visuals for whatever message I am trying to get across to the audience. As Degas put it, "Art is not what you see, but what you make others see."
+
+      I am currently searching for a post-graduation (May 2017) position that fits my interests, with special interest in illustration and graphic arts for teaching or communication purposes. </p>
     </div>
 </div>
 
