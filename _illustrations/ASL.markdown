@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "this is a test"
-tile-name: "Testing"
-thumbnail: "lightingThumbnail.png"
-order: 3
+tile-name: "ASL Symbols"
+thumbnail: "aslThumbnail.png"
+order: 9
 ---
 <div class="small-12 medium-6 large-8">
 

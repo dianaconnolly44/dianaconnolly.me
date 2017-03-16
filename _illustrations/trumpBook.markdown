@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Color Unity Studies"
-tile-name: "Color Unity"
-thumbnail: "unityThumbnail.png"
-order: 1
+tile-name: "Inauguration Book"
+thumbnail: "trumpThumbnail.png"
+order: 10
 ---
 
 <div class="small-12 medium-6 large-8">

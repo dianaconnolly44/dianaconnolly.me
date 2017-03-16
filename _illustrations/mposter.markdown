@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jewish Prayer Symbols"
-tile-name: "Jewish Prayer Symbols"
-thumbnail: "stickerThumbnail.png"
-order: 5
+title:  "Personalized Adventure Time Poster"
+tile-name: "Personalized Poster"
+thumbnail: "mposterThumbnail.png"
+order: 3
 ---
 
 ![Hero Image](/img/resilientPorosity-yg/hero.png)

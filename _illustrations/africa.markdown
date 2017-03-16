@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jewish Prayer Symbols"
-tile-name: "Jewish Prayer Symbols"
-thumbnail: "stickerThumbnail.png"
-order: 5
+title:  "South Africa Terrain Symbols"
+tile-name: "South Africa Terrain Symbols"
+thumbnail: "africaThumbnail.png"
+order: 12
 ---
 
 ![Hero Image](/img/resilientPorosity-yg/hero.png)

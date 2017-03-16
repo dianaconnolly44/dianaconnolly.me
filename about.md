@@ -22,7 +22,7 @@ title: About
 <div class="small-12 medium-7 columns">
     <div class="bio">
         <p>
-            Hi! My name is Diana Connolly, and I am a California girl who's found herself in the lively 'Steel City' of Pittsburgh, PA
+            Hi! My name is Diana Connolly, and I'm an artist and student living in the lively 'Steel City' of Pittsburgh, PA.
         </p>
 
         <p>
@@ -30,7 +30,7 @@ title: About
         </p>
 
         <p>
-            I am currently searching for a post-graduation (May 2017) position that fits my interests, with special interest in illustration and graphic arts for teaching or communication purposes.
+            I am currently searching for a post-graduation (May '17) position that fits my interests, especially in illustration and graphic arts for teaching or communication purposes.
         </p>
     </div>
 </div>

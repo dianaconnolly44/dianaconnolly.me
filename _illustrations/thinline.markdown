@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jewish Prayer Symbols"
-tile-name: "Jewish Prayer Symbols"
-thumbnail: "stickerThumbnail.png"
-order: 5
+title:  "Thinline Symbols"
+tile-name: "Thinline Symbols"
+thumbnail: "thinlineThumbnail.png"
+order: 7
 ---
 
 ![Hero Image](/img/resilientPorosity-yg/hero.png)
