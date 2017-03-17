@@ -6,10 +6,14 @@ thumbnail: "verdeThumbnail.png"
 order: 19
 ---
 
+The below cover illustrations were made when I was the Art Director of Verde Magazine, Palo Alto High School's news magazine.
+
+<br>
+
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/verde/covers/babycover.png" alt="Hero Image">
+    <img src="/img/verde/covers/unclesamCover.jpg" alt="Hero Image">
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
@@ -49,7 +53,7 @@ order: 19
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/verde/covers/unclesamCover.jpg" alt="Hero Image">
+    <img src="/img/verde/covers/babycover.png" alt="Hero Image">
   </div>
   
 </div>
