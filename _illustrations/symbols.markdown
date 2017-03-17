@@ -6,8 +6,29 @@ thumbnail: "stickerThumbnail.png"
 order: 5
 ---
 
-![Hero Image](/img/resilientPorosity-yg/hero.png)
+***This project is currently in progress, and is my senior capstone project for Carnegie Mellon University.***
 
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, this implies blurring edges, rethinking boundaries and allowing for more porous transitions between in- and outside. Such spatial qualities are not new to East Liberty, but in fact result from careful observations of the existing urban milieu. The project ‘Resilient Porosity’ aims at enhancing the existing structure of East Liberty by providing a network of public spaces where people of different classes, races and interests can mix in small scale neighborhood clusters.
+I am partnering with Pittsburgh's Temple Sinai to create visual aids for their monthly Autism and sensory friendly Shabbat services. I met with the rabbis to discuss how best to represent each prayer in symbol form. Below are my current prayer symbols.
 
-![2 Word Image Description](/img/resilientPorosity-yg/context.png)
+![Hero Image](/img/TS/stickers.png)
+
+<br>
+
+For the Shabbat service, I created fold-out bookmarks to go in people's prayer books. The bookmarks folded out to look like this:
+
+<br>
+
+![Hero Image](/img/TS/bookmark.png)
+
+<br>
+
+These bookmarks were paired with a sticker packet of color versions of the symbols, to have the individual place the current prayer's sticker on top of its spot in the bookmark. This is to help people follow the prayer service.
+
+I also created a large banner with the schedule of prayers printed in symbol form, to further help maintain engagement in following the service.
+
+<br>
+
+![Hero Image](/img/TS/banner.png)
+
+
+
