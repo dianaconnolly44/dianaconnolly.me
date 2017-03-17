@@ -6,8 +6,50 @@ thumbnail: "verdeThumbnail.png"
 order: 19
 ---
 
-![Hero Image](/img/resilientPorosity-yg/hero.png)
+<div class="row">
 
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, this implies blurring edges, rethinking boundaries and allowing for more porous transitions between in- and outside. Such spatial qualities are not new to East Liberty, but in fact result from careful observations of the existing urban milieu. The project ‘Resilient Porosity’ aims at enhancing the existing structure of East Liberty by providing a network of public spaces where people of different classes, races and interests can mix in small scale neighborhood clusters.
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/babycover.png" alt="Hero Image">
+  </div>
 
-![2 Word Image Description](/img/resilientPorosity-yg/context.png)
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/sweetCover.jpg" alt="Hero Image">
+  </div>
+  
+</div>
+
+<div class="row verticalSpace">
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/elephantCover.jpg" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/guncover.png" alt="Hero Image">
+  </div>
+  
+</div>
+
+<div class="row verticalSpace">
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/lipcover.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/maskcover.png" alt="Hero Image">
+  </div>
+  
+</div>
+
+<div class="row verticalSpace">
+
+ <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/boyscoutCover.jpg" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/verde/covers/unclesamCover.jpg" alt="Hero Image">
+  </div>
+  
+</div>

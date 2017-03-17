@@ -5,15 +5,32 @@ tile-name: "Color Study"
 thumbnail: "unityThumbnail.png"
 order: 4
 ---
+This series of images was created as a study of how colors interact with one another. 
 
-![Girl in purple with red lips](/img/unity.png)
+<div class="row">
 
-This series of images was created as a study of how colors interact with one another. The above image was aimed to create a unified color palette.
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/unity.png" alt="Hero Image">
+  </div>
 
-![Girl in purple with red lips](/img/anomaly.png)
+</div>
 
+The above image was aimed to create a unified color palette.
+
+<div class="row">
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/anomaly.png" alt="Hero Image">
+  </div>
+
+</div>
 The above image was aimed to add in an anomaly to the originally uniform color palette.
 
-![Girl in purple with red face](/img/bridge.png)
+<div class="row">
 
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/bridge.png" alt="Hero Image">
+  </div>
+
+</div>
 And the final image was aimed at bridging the anomaly with the initial color palette, to make the anomaly color fit in more.
