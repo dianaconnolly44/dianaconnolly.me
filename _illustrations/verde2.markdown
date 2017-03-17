@@ -3,7 +3,7 @@ layout: post
 title:  "Magazine Illustrations"
 tile-name: "Magazine Illustrations"
 thumbnail: "layoutThumbnail.png"
-order: 19
+order: 20
 ---
 
 <div class="row">

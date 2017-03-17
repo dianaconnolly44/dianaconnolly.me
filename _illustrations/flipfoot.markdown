@@ -1,23 +1,18 @@
 ---
 layout: post
-title:  "Color Unity Studies"
+title:  "CRPS Flipbook"
 tile-name: "CRPS Flipbook"
 thumbnail: "flipfootThumbnail.png"
 order: 13
 ---
 
-<div class="small-12 medium-6 large-8">
-![Girl in purple](/img/unity.png)
-</div>
+This flipbook was made as a communication tool to explain Complex Regional Pain Syndrome (CRPS). I got CRPS myself after a foot injury, and it took months to figure out exactly what was happening to my foot. A flipbook like this would have helped me, as a patient, to understand the mechanisms of CRPS.
 
-<div class="small-12 medium-6 large-4">
-HAI.
-</div>
 
-![Girl in purple with red lips](/img/anomaly.png)
+![Girl in purple with red lips](/img/Flipfoot/1.jpg)
 
-yo.
+![Girl in purple with red lips](/img/Flipfoot/2.jpg)
 
-![Girl in purple with red face](/img/bridge.png)
+![Girl in purple with red lips](/img/Flipfoot/3.jpg)
 
-yeah.
+![Girl in purple with red lips](/img/Flipfoot/4.jpg)

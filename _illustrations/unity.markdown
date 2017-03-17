@@ -6,18 +6,14 @@ thumbnail: "unityThumbnail.png"
 order: 4
 ---
 
-<div class="small-12 medium-6 large-8">
-![Girl in purple](/img/unity.png)
-</div>
+![Girl in purple with red lips](/img/unity.png)
 
-<div class="small-12 medium-6 large-4">
-HAI.
-</div>
+This series of images was created as a study of how colors interact with one another. The above image was aimed to create a unified color palette.
 
 ![Girl in purple with red lips](/img/anomaly.png)
 
-yo.
+The above image was aimed to add in an anomaly to the originally uniform color palette.
 
 ![Girl in purple with red face](/img/bridge.png)
 
-yeah.
+And the final image was aimed at bridging the anomaly with the initial color palette, to make the anomaly color fit in more.

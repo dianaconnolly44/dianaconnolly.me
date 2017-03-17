@@ -1,16 +1,69 @@
 ---
 layout: post
-title:  "this is a test"
+title:  "ASL Symbols"
 tile-name: "ASL Symbols"
 thumbnail: "aslThumbnail.png"
 order: 9
 ---
-<div class="small-12 medium-6 large-8">
 
-![Girl in 2 lighting conditions](/img/colorHair.png)
+The below images were created as communication symbols for Tobii Dynavox users who wishes to communicate with members of the American Sign Language (ASL) community, but have physical disabilities that make them unable to sign.
 
+<br> <br>
+
+<div class="row">
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/parking.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/come.png" alt="Hero Image"> 
+  </div>
+  
 </div>
 
-<div class="small-12 medium-6 large-4">
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, 
+
+<br>
+
+<div class="row">
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/balance.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/climb.png" alt="Hero Image"> 
+  </div>
+  
+</div>
+
+
+<br>
+
+<div class="row">
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/sense.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/slide.png" alt="Hero Image"> 
+  </div>
+  
+</div>
+
+
+<br>
+
+
+<div class="row">
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/swing.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-5 large-5 columns">
+    <img src="/img/asl/monkeyBar.png" alt="Hero Image"> 
+  </div>
+  
 </div>

@@ -6,8 +6,18 @@ thumbnail: "bunnyThumbnail.png"
 order: 1
 ---
 
-![Hero Image](/img/resilientPorosity-yg/hero.png)
+***More images to come once this project has been published!***
 
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, this implies blurring edges, rethinking boundaries and allowing for more porous transitions between in- and outside. Such spatial qualities are not new to East Liberty, but in fact result from careful observations of the existing urban milieu. The project ‘Resilient Porosity’ aims at enhancing the existing structure of East Liberty by providing a network of public spaces where people of different classes, races and interests can mix in small scale neighborhood clusters.
+The below images are sketches for an in-progress project for Tobii Dynavox. The assignment is to create a children's book about the process of growing tomatoes, with a rabbit as the main character. 
 
-![2 Word Image Description](/img/resilientPorosity-yg/context.png)
+![Hero Image](/img/bun1.png)
+
+The above image is my process for deciding the rabbit's outfit.
+
+![Hero Image](/img/bun2.png)
+
+The above image is my process for coming up with different body positions for the rabbit while gardening.
+
+
+***More images to come once this project has been published!***
+

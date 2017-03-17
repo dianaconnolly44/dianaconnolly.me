@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  "Color Unity Studies"
+title:  "Inauguration Book"
 tile-name: "Inauguration Book"
 thumbnail: "trumpThumbnail.png"
-order: 10
+order: 11
 ---
 
-<div class="small-12 medium-6 large-8">
-![Girl in purple](/img/unity.png)
-</div>
+The below images were created as a children's book about inauguration, and what happens inside of the White House.
 
-<div class="small-12 medium-6 large-4">
-HAI.
-</div>
 
-![Girl in purple with red lips](/img/anomaly.png)
+![Girl in purple with red lips](/img/trumpBook/png/trump0.png)
 
-yo.
+![Girl in purple with red lips](/img/trumpBook/png/trump1.png)
 
-![Girl in purple with red face](/img/bridge.png)
+![Girl in purple with red lips](/img/trumpBook/png/trump3.png)
 
-yeah.
+![Girl in purple with red lips](/img/trumpBook/png/trump4.png)
+
+![Girl in purple with red lips](/img/trumpBook/png/trump5.png)
+
+![Girl in purple with red lips](/img/trumpBook/png/trump6.png)
+
+![Girl in purple with red lips](/img/trumpBook/png/trump7.png)
+
+![Girl in purple with red lips](/img/trumpBook/png/trump8.png)
+

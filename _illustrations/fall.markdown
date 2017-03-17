@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "this is a test"
+title:  "Seasons Book"
 tile-name: "Seasons Book"
 thumbnail: "fallThumbnail.png"
 order: 2
 ---
-<div class="small-12 medium-6 large-8">
+![Hero Image](/img/fall.png)
 
-![Girl in 2 lighting conditions](/img/colorHair.png)
-
-</div>
-
-<div class="small-12 medium-6 large-4">
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, 
-</div>
+This illustration was made as an addition to a collaborative book about seasons, and how each season has its own color. I was responsible for drawing the fall page, which was to have an overall orange color palette.

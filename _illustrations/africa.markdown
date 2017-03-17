@@ -3,11 +3,33 @@ layout: post
 title:  "South Africa Terrain Symbols"
 tile-name: "South Africa Terrain Symbols"
 thumbnail: "africaThumbnail.png"
-order: 12
+order: 10
 ---
 
-![Hero Image](/img/resilientPorosity-yg/hero.png)
+The below images were made as symbols to represent a few kinds of terrains one might find in South Africa. These symbols were then placed as silhouettes on to a map of South Africa to give the viewer a sense of where they might find these terrains.
 
-This project imagines a city that allows us to gain experiences in many different places, and with many different people. Spatially speaking, this implies blurring edges, rethinking boundaries and allowing for more porous transitions between in- and outside. Such spatial qualities are not new to East Liberty, but in fact result from careful observations of the existing urban milieu. The project ‘Resilient Porosity’ aims at enhancing the existing structure of East Liberty by providing a network of public spaces where people of different classes, races and interests can mix in small scale neighborhood clusters.
+<div class="row">
 
-![2 Word Image Description](/img/resilientPorosity-yg/context.png)
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/mapSlope.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/mapGrass.png" alt="Hero Image">
+  </div>
+  
+</div>
+
+<div class="row">
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/mapRiver.png" alt="Hero Image">
+  </div>
+
+  <div class="small-12 medium-6 large-6 columns">
+    <img src="/img/mapRocks.png" alt="Hero Image">
+  </div>
+  
+</div>
+
+![Hero Image](/img/map.png)

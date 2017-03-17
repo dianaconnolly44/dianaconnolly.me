@@ -3,7 +3,7 @@ layout: post
 title:  "Magazine Covers"
 tile-name: "Magazine Covers"
 thumbnail: "verdeThumbnail.png"
-order: 18
+order: 19
 ---
 
 ![Hero Image](/img/resilientPorosity-yg/hero.png)
