@@ -64,6 +64,11 @@ footer {
     margin-bottom: 25px;
 }
 
+.image-center {
+  margin: 0 auto;
+  display: block;
+}
+
 .thumbnail-container {
     position: relative;
     display: block;
@@ -142,6 +147,7 @@ footer {
 .bio {
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 }
 
 .footerLeft{
