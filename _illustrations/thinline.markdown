@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Thinline Symbols"
-tile-name: "Thinline Symbols"
+title:  "Conversation Symbols"
+tile-name: "Conversation Symbols"
 thumbnail: "thinlineThumbnail.png"
-order: 7
+order: 17
 ---
 
 The below images were created as "Thinline" style symbols for Tobii Dynavox, as communication symbols to represent certain words that a user might want to use.
