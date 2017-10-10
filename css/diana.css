@@ -51,6 +51,10 @@ footer {
     color: #b5b5b5; 
 }
 
+.centered{
+    text-align: center;
+}
+
 .rehanLogo{
   height: 18px;
 }
@@ -100,6 +104,8 @@ footer {
     font-size: 33px;
     line-height: 30px;
     text-align: center;
+    padding: 6px;
+    line-height: 1.1em;
 }
 
 .thumbnail-tile {

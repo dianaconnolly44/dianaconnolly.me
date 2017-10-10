@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Seasons Book"
-tile-name: "Seasons Book"
+title:  "'Seasons of Color' Book"
+tile-name: "'Seasons of Color' Book"
 thumbnail: "fallThumbnail.png"
-order: 2
+order: 11
 ---
 ![Hero Image](/img/fall.png)
 
