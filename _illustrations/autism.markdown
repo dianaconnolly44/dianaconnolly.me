@@ -28,12 +28,5 @@ I also created a large banner with the schedule of prayers printed in symbol for
 
 <br>
 
-<div class="row">
-
-  <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/TS/banner.png" alt="Hero Image">
-  </div>
-  
-</div>
 
 

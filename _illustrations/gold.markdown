@@ -29,11 +29,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 1: " "
+    Page 1: "Do you have what it takes to win the race?"
   </div>
   
   <div class="small-12 medium-6 large-6 columns">
-    Page 3: " "
+    Page 3: "Coach will show you the way."
   </div>
   
 </div>
@@ -58,11 +58,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 4: " "
+    Page 4: "Eat healthy, too."
   </div>
   
   <div class="small-12 medium-6 large-6 columns">
-    Page 6: " "
+    Page 6: "Get a lot of rest."
   </div>
   
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "'Inauguration' Book"
-tile-name: "'Inauguration' Book"
+title:  "'The White House' Book"
+tile-name: "'The White House' Book"
 thumbnail: "trumpThumbnail.png"
 order: 7
 ---
@@ -29,11 +29,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 3: "This is the Oval Office, where the president works."
+    Page 3: "This is where the president gives speeches."
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 4: "Can you guess why this is called the Oval Office?"
+    Page 4: "It is called the Oval Office. Can you guess why?"
   </div>
   
 </div>
@@ -57,11 +57,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 6: "Can you guess why this is called the Blue Room?"
+    Page 6: "It is called the Blue Room. Can you guess why?"
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 7: "This is the --"
+    Page 7: "This room has a stage."
   </div>
   
 </div>

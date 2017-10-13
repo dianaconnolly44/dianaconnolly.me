@@ -29,11 +29,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 1: "--"
+    Page 1: "You can plant a garden."
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 4: "--"
+    Page 4: "The sprout becomes a plant. Give it sunlight."
   </div>
   
 </div>
@@ -57,11 +57,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 6: "--"
+    Page 6: "The flower becomes a tomato. Give it time."
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 8: "--"
+    Page 8: "Give it here."
   </div>
   
 </div>
