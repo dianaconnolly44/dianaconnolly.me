@@ -6,9 +6,9 @@ thumbnail: "NRGThumbnail.png"
 order: 8
 ---
 
-As a graphic artist intern at Tobii Dynavox, I progressed from producing symbols to producing children's books. This is one of my first books I worked on, following the illustration style of one of the full time graphic artists. I developed my own children's book illustration styles in future assignments.
+As a graphic artist intern at Tobii Dynavox, I progressed from producing symbols to producing children's books. This is one of my first books I worked on for their Boardmaker Instructional Solutions unit, following the illustration style of one of the full time graphic artists. I developed my own children's book illustration styles in future assignments.
 
-To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
+To view more, please go to <a href="http://www.boardmakeronline.com/">Boardmaker</a>, or to my <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 
 <br>
 

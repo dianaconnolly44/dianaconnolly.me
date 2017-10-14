@@ -6,9 +6,9 @@ thumbnail: "goldThumbnail.png"
 order: 12
 ---
 
-As a graphic artist intern at Tobii Dynavox, one of my first assignments was to color in a children's book. I was given the black and white outlines for the book below, and added in color and shading as I saw fit.
+As a graphic artist intern at Tobii Dynavox, one of my first assignments was to color in a children's book for their Boardmaker Instructional Solutions unit. I was given the black and white outlines for the book below, and added in color and shading as I saw fit.
 
-To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
+To view more, please go to <a href="http://www.boardmakeronline.com/">Boardmaker</a>, or to my <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 
 <br>
 

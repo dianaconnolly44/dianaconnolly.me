@@ -6,9 +6,9 @@ thumbnail: "trumpThumbnail.png"
 order: 7
 ---
 
-I created the below children's book for Tobii Dynavox to teach children about inauguration, and what happens inside of the White House. This is the first book I completed on my own at Tobii Dynavox, coming up with the style and character design.
+I created the below children's book for Tobii Dynavox's Boardmaker Instructional Solutions unit, to teach children about inauguration, and what happens inside of the White House. This is the first book I completed on my own at Tobii Dynavox, coming up with the style and character design.
 
-To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
+To view more, please go to <a href="http://www.boardmakeronline.com/">Boardmaker</a>, or to my <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 
 <br>
 

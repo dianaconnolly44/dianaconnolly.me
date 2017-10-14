@@ -6,9 +6,9 @@ thumbnail: "fridaThumbnail.png"
 order: 4
 ---
 
-I created the below children’s book this summer as my final assignment as Graphic Artist Intern at Tobii Dynavox. The assignment was to create a children’s book about the life of artist Frida Kahlo, done in a painterly illustration style - in honor of Kahlo’s paintings. I employed different brush effects in Adobe Illustrator to create this painterly effect, as well as using a color palette similar to those Kahlo used in her own works.
+I created the below educational children’s book this summer as my final assignment as Graphic Artist Intern at Tobii Dynavox. The assignment was to create a children’s book for our Boardmaker Instructional Solutions unit about the life of artist Frida Kahlo, done in a painterly illustration style - in honor of Kahlo’s paintings. I employed different brush effects in Adobe Illustrator to create this painterly effect, as well as using a color palette similar to those Kahlo used in her own works.
 
-To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
+To view more, please go to <a href="http://www.boardmakeronline.com/">Boardmaker</a>, or to my <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 
 <br>
 

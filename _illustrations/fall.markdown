@@ -10,6 +10,19 @@ This illustration was made as an addition to a collaborative book about seasons,
 
 <br>
 
-![Hero Image](/img/fall.png)
+<div class="row">
 
-"Fall is an orange season. The leaves are orange. The pumpkins are too. The city looks orange in fall."
+  <div class="small-12 medium-6 large-6 small-centered columns">
+    <img src="/img/fall.png" alt="fall page">
+  </div>
+
+</div>
+
+<br>
+
+<div class="row">
+
+  <div class="small-12 medium-6 large-6 small-centered columns">
+    Page 5: "Fall is an orange season. The leaves are orange. The pumpkins are too. The city looks orange in fall."
+  </div>
+</div>
