@@ -6,27 +6,28 @@ thumbnail: "stickerThumbnail.png"
 order: 9
 ---
 
-***This project is currently in progress, and is my senior capstone project for Carnegie Mellon University.***
+***This project is currently in progress, and will be updated once the research has been completed.***
 
-I am partnering with Pittsburgh's Temple Sinai to create visual aids for their monthly Autism and sensory friendly Shabbat services. I met with the rabbis to discuss how best to represent each prayer in symbol form. Below are my current prayer symbols.
+For my senior capstone at Carnegie Mellon University, I knew that I wanted to research how to make the most effective visuals. Being a student of neuroscience and psychology, I began researching possible neurological and psychological disorders that are known to benefit from visual stimuli. Two primary categories included stroke patients (whom sometimes develop Aphasia, a language disorder caused by damage to parts of the brain), and also Autism Spectrum Disorder. I became very excited at the idea of researching communication symbols for young children with Autism.
 
-![Hero Image](/img/TS/stickers.png)
+This is when I connected with a community resource - a local Jewish temple named Temple Sinai. I partnered with Temple Sinai to create visual aids for their monthly Autism and sensory friendly Shabbat services. I met with the rabbis to discuss how best to represent each prayer in symbol form, and began producing a symbol library for their Shabbat symbols. Beyond just visual stimuli, I began exploring tactile stimuli, to further help those with Autism to engage and connect with the prayers currently happening at the Shabbat. Thus, I began producing sticker booklets with the symbols I had designed. See an example of these symbols below.
+
+
+<div class="row">
+
+  <div class="small-12 medium-8 large-8 small-centered columns">
+    <img src="/img/TS/stickers.png" alt="Hero Image">
+  </div>
+  
+</div>
+
+<br>
+Over the course of this project, I have designed different iterations of the format of the symbol booklets - from being just one sheet, to having fold-out sections, to being in a page-turning book form. Based on feedback from the children and their families, the page-turning book was the most effective and enticing form, as it was a familiar and interacitve form.
+
+This project has been very redeeming, working with the temple's rabbis, going to the Shabbats, seeing my pieces in use, and then iterating them to improve their effectiveness. My goal is to expand this project, to spread this sticker booklet idea to other temples, and perhaps for other purposes such as teaching and personal communication purposes.
 
 <br>
 
-For the Shabbat service, I created fold-out bookmarks to go in people's prayer books. The bookmarks folded out to look like this:
-
-<br>
-
-![Hero Image](/img/TS/bookmark.png)
-
-<br>
-
-These bookmarks were paired with a sticker packet of color versions of the symbols, to have the individual place the current prayer's sticker on top of its spot in the bookmark. This is to help people follow the prayer service.
-
-I also created a large banner with the schedule of prayers printed in symbol form, to further help maintain engagement in following the service.
-
-<br>
 
 
 

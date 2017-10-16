@@ -13,30 +13,75 @@ To learn more about Tobii Dynavox's mission, their communication devices, or the
 <br>
 <br>
 
-South African symbols:
+South Africa symbols:
 
 <div class="row">
 
-  <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/mapSlope.png" alt="Hero Image">
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/aSlope.png" alt="Hero Image">
+    <p class="centered">"Slope"</p>
   </div>
 
-  <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/mapGrass.png" alt="Hero Image">
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/aGrass.png" alt="Hero Image">
+    <p class="centered">"Grass"</p>
+  </div>
+
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/aRiver.png" alt="Hero Image">
+    <p class="centered">"River"</p>
+  </div>
+
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/aRocks.png" alt="Hero Image">
+    <p class="centered">"Rocks"</p>
   </div>
   
 </div>
 
 <div class="row">
 
-  <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/mapRiver.png" alt="Hero Image">
-  </div>
-
-  <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/mapRocks.png" alt="Hero Image">
+  <div class="small-12 medium-8 large-8 small-centered columns">
+    <img src="/img/maps/aMap.png" alt="Hero Image">
   </div>
   
 </div>
 
-![Hero Image](/img/map.png)
+<br>
+<br>
+
+Mexico symbols:
+
+<div class="row">
+
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/mCanyon.png" alt="Hero Image">
+    <p class="centered">"Canyon"</p>
+  </div>
+
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/mDesert.png" alt="Hero Image">
+    <p class="centered">"Desert"</p>
+  </div>
+
+ <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/mMountain.png" alt="Hero Image">
+    <p class="centered">"Mountain"</p>
+  </div>
+  
+  <div class="small-12 medium-3 large-3 columns">
+    <img src="/img/maps/mRainforest.png" alt="Hero Image">
+    <p class="centered">"Rainforest"</p>
+  </div>
+  
+</div>
+
+<div class="row">
+
+  <div class="small-12 medium-8 large-8 small-centered columns">
+    <img src="/img/maps/mMap.png" alt="Hero Image">
+  </div>
+  
+</div>
+
+
