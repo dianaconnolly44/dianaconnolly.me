@@ -6,9 +6,9 @@ thumbnail: "bunnyThumbnail.png"
 order: 6
 ---
 
-The below images show a few of the pages I illustrated for one of Tobii Dynavox's educational children's books. The assignment was to create illustrations to teach children about the process of growing tomatoes, with a rabbit as the main character. I developed the style and color palette (see images below the book excerpts for my process).
+The below images show a few of the pages I illustrated for one of Tobii Dynavox's educational children's books, as part of their Boardmaker Instructional Solutions unit. The assignment was to create illustrations to teach children about the process of growing tomatoes, with a rabbit as the main character. This book helped me practice with character design, style, and color palette.
 
-To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
+To view more, please go to <a href="http://www.boardmakeronline.com/">Boardmaker</a>, or to my <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 
 <br>
 
@@ -29,11 +29,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 1: "--"
+    Page 1: "You can plant a garden."
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 4: "--"
+    Page 4: "The sprout becomes a plant. Give it sunlight."
   </div>
   
 </div>
@@ -57,32 +57,15 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 6: "--"
+    Page 6: "The flower becomes a tomato. Give it time."
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 8: "--"
+    Page 8: "Give it here."
   </div>
   
 </div>
 
 <br>
 <br>
-<br>
-<br>
-
-Process images:
-<br>
-<br>
-<br>
-<br>
-
-![Hero Image](/img/bun1.png)
-
-My process for deciding the rabbit's outfit.
-
-![Hero Image](/img/bun2.png)
-
-Coming up with different body positions for the rabbit while gardening.
-
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "'Help Save Energy' Book"
-tile-name: "'Help Save Energy' Book"
+title:  "'Who Can Do It?' Book"
+tile-name: "'Who Can Do It?' Book"
 thumbnail: "NRGThumbnail.png"
 order: 8
 ---
 
-As a graphic artist intern at Tobii Dynavox, I progressed from producing symbols to producing children's books. This is one of my first books I worked on, following the illustration style of one of the full time graphic artists. I developed my own children's book illustration styles in future assignments.
+As a graphic artist intern at Tobii Dynavox, I progressed from producing symbols to producing children's books. This is one of my first books I worked on for their Boardmaker Instructional Solutions unit, following the illustration style of one of the full time graphic artists. I developed my own children's book illustration styles in future assignments.
 
-To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
+To view more, please go to <a href="http://www.boardmakeronline.com/">Boardmaker</a>, or to my <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 
 <br>
 
@@ -29,11 +29,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 4: ""
+    Page 6: "She takes a quick shower to save water."
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 5: ""
+    Page 7: "Who can do it? He can!"
   </div>
   
 </div>
@@ -43,11 +43,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/nrg/NRG9.png" alt="Hero Image">
+    <img src="/img/nrg/NRG8.png" alt="Hero Image">
   </div>
   
   <div class="small-12 medium-6 large-6 columns">
-    <img src="/img/nrg/NRG8.png" alt="Hero Image">
+    <img src="/img/nrg/NRG9.png" alt="Hero Image">
   </div>
   
 </div>
@@ -57,11 +57,11 @@ To view more of this book, please go to <a href="http://dianaconnolly.me/about.h
 <div class="row">
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 7: ""
+    Page 9: "Conserving energy is good to do. Who can do it?"
   </div>
 
   <div class="small-12 medium-6 large-6 columns">
-    Page 8: ""
+    Page 10: "I can. You can. We all can conserve energy."
   </div>
   
 </div>
