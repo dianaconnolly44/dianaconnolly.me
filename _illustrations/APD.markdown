@@ -5,7 +5,7 @@ tile-name: "'A Perfect Day' Book"
 thumbnail: "apdThumbnail.png"
 order: 2
 ---
-I created this book as a personal project -- my first children's book that I created outside of my illustration positions. My goal was to explore character design, color dynamics, and creating a certain feeling (cheerful and light) in the reader. However, the focus of this book really became about Zoey the dog, and making her come to life.
+I created this book as a personal project -- my first children's book that I created outside of my illustration positions. My goal was to explore character design, color dynamics, and creating a certain feeling (cheerful and light) in the reader. However, the focus of this book quickly became about Zoey the dog, and making her come to life.
 
 To view more of this book, please go to <a href="http://dianaconnolly.me/about.html">About</a> and contact me.
 

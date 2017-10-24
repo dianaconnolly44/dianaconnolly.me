@@ -30,6 +30,13 @@ To learn more about Tobii Dynavox's mission, their communication devices, or the
     <p class="centered">"Monkey Bar"</p>
   </div>
 
+</div>
+
+<br>
+
+<div class="row">
+
+
   <div class="small-12 medium-4 large-4 columns">
     <img src="/img/asl/swing.png" alt="Hero Image"> 
     <p class="centered">"Swing"</p>
