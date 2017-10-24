@@ -3,7 +3,7 @@ layout: post
 title:  "ASL Symbols"
 tile-name: "ASL Symbols"
 thumbnail: "aslThumbnail.png"
-order: 13
+order: 15
 ---
 
 I created the below symbols as part of the "Classic" line of communication symbols for Tobii Dynavox. Communication symbols like these are used by individuals who are unable to verbally communicate. The symbols are displayed to the user on an Augmentative and Alternative Communication device that can communicate for the user (such as the one Stephen Hawking uses). These specific symbols are made for users who wish to communicate with members of the American Sign Language (ASL) community, but have physical disabilities that make them unable to sign.

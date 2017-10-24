@@ -3,10 +3,10 @@ layout: post
 title:  "Conversation Symbols"
 tile-name: "Conversation Symbols"
 thumbnail: "thinlineThumbnail.png"
-order: 17
+order: 18
 ---
 
-I created the below images as a Graphic Artist Intern at Tobii Dynavox. These images are some of the symbols I contributed to Tobii Dynavox's line of "Thinline" style symbols, communication symbols that represent certain words that a user might wish to use to communicate.
+I created the below symbols as part of the "Thinline" line of communication symbols for Tobii Dynavox. Communication symbols like these are used by individuals who are unable to verbally communicate. The symbols are displayed to the user on an Augmentative and Alternative Communication device that can communicate for the user (such as the one Stephen Hawking uses). These specific symbols represent a wide array of general conversation topics, made for users who might wish to use these in daily conversations.
 
 To learn more about Tobii Dynavox's mission, their communication devices, or their communication symbols, visit <a href="https://www.tobiidynavox.com/en-US/?MarketPopupClicked=true">www.tobiidynavox.com/</a>.
 
@@ -53,27 +53,6 @@ To learn more about Tobii Dynavox's mission, their communication devices, or the
 
 </div>
 
-<br>
-
-<div class="row">
-
-  <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/help.png" alt="Hero Image">
-    <p class="centered">"Help"</p>
-  </div>
-
-  <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/imagine.png" alt="Hero Image">
-    <p class="centered">"Imagine"</p>
-  </div>
-  
-  <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/lipstick.png" alt="Hero Image">
-    <p class="centered">"Lipstick"</p>
-  </div>
-  
-</div>
-
 
 <br>
 
@@ -103,36 +82,13 @@ To learn more about Tobii Dynavox's mission, their communication devices, or the
 <div class="row">
 
   <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/slowDance.png" alt="Hero Image">
-    <p class="centered">"Slow Dance"</p>
+    <img src="/img/thinlines/new/Glitter Glue.png" alt="Hero Image">
+    <p class="centered">"Glitter Glue"</p>
   </div>
 
   <div class="small-12 medium-4 large-4 columns">
     <img src="/img/thinlines/spicy.png" alt="Hero Image">
     <p class="centered">"Spicy"</p>
-  </div>
-  
-  <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/new/Glitter Glue.png" alt="Hero Image">
-    <p class="centered">"Glitter Glue"</p>
-  </div>
-  
-</div>
-
-
-<br>
-
-
-<div class="row">
-
-  <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/mJogging.png" alt="Hero Image">
-    <p class="centered">"Jogging"</p>
-  </div>
-
-  <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/thinlines/new/TP Rolls.png" alt="Hero Image">
-    <p class="centered">"Toilet Paper Rolls"</p>
   </div>
   
   <div class="small-12 medium-4 large-4 columns">
@@ -144,5 +100,6 @@ To learn more about Tobii Dynavox's mission, their communication devices, or the
 
 
 <br>
+
 
 

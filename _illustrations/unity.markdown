@@ -3,7 +3,7 @@ layout: post
 title:  "Color Unity Studies"
 tile-name: "Color Study"
 thumbnail: "unityThumbnail.png"
-order: 20
+order: 21
 ---
 This series of images was created as a study of how colors interact with one another. 
 
