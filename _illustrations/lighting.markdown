@@ -3,7 +3,7 @@ layout: post
 title:  "Lighting Color Study"
 tile-name: "Lighting Study"
 thumbnail: "lightingThumbnail.png"
-order: 18
+order: 20
 ---
 
 ![Hero Image](/img/colorHair.png)
