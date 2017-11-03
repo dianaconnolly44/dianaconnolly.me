@@ -25,11 +25,17 @@ As Graphics and Marketing Intern at Expii, I am now working on the project of cr
   </div>
   
   <div class="small-12 medium-4 large-4 columns">
-    <img src="/img/expii/turkey.gif" alt="Hero Image">
+    <a href="https://www.expii.com/problem/18065"><img src="/img/expii/pumpkins.gif" alt="Hero Image"></a>
+    <p class="centered">Pumpkin Overload</p>
+  </div>
+  
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/area-of-a-circle-767?type=problem&id=18060"><img src="/img/expii/turkey.gif" alt="Hero Image"></a>
     <p class="centered">Macy's Day Parade</p>
   </div>
 
 </div>
 
 <br>
+
 
