@@ -3,7 +3,7 @@ layout: post
 title:  "'Who Can Do It?' Book"
 tile-name: "'Who Can Do It?' Book"
 thumbnail: "NRGThumbnail.png"
-order: 8
+order: 9
 ---
 
 As a graphic artist intern at Tobii Dynavox, I progressed from producing symbols to producing children's books. This is one of my first books I worked on for their Boardmaker Instructional Solutions unit, following the illustration style of one of the full time graphic artists. I developed my own children's book illustration styles in future assignments.

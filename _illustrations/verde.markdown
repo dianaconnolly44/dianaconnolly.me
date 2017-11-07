@@ -3,7 +3,7 @@ layout: post
 title:  "Magazine Covers"
 tile-name: "Magazine Covers"
 thumbnail: "verdeThumbnail.png"
-order: 14
+order: 15
 ---
 
 The below cover illustrations were made when I was the Art Director of Verde Magazine, Palo Alto High School's news magazine.

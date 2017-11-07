@@ -3,7 +3,7 @@ layout: post
 title:  "Expii Graphics"
 tile-name: "Expii Graphics"
 thumbnail: "socialMediaThumbnail.png"
-order: 3
+order: 4
 ---
 Social Media "Holiday" Posts:
 

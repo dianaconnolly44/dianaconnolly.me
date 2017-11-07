@@ -3,7 +3,7 @@ layout: post
 title:  "'Going for Gold' Book"
 tile-name: "'Going for Gold' Book"
 thumbnail: "goldThumbnail.png"
-order: 18
+order: 19
 ---
 
 As a graphic artist intern at Tobii Dynavox, one of my first assignments was to color in a children's book for their Boardmaker Instructional Solutions unit. I was given the black and white outlines for the book below, and added in color and shading as I saw fit.
