@@ -3,7 +3,7 @@ layout: post
 title:  "'The White House' Book"
 tile-name: "'The White House' Book"
 thumbnail: "trumpThumbnail.png"
-order: 7
+order: 8
 ---
 
 I created the below children's book for Tobii Dynavox's Boardmaker Instructional Solutions unit, to teach children about inauguration, and what happens inside of the White House. This is the first book I completed on my own at Tobii Dynavox, coming up with the style and character design.

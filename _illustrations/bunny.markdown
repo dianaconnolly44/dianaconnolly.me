@@ -3,7 +3,7 @@ layout: post
 title:  "'Growing a Tomato' Book"
 tile-name: "'Growing a Tomato' Book"
 thumbnail: "bunnyThumbnail.png"
-order: 6
+order: 7
 ---
 
 The below images show a few of the pages I illustrated for one of Tobii Dynavox's educational children's books, as part of their Boardmaker Instructional Solutions unit. The assignment was to create illustrations to teach children about the process of growing tomatoes, with a rabbit as the main character. This book helped me practice with character design, style, and color palette.

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "GIFs"
-tile-name: "GIFs"
+title:  "GIF Animations"
+tile-name: "Animation"
 thumbnail: "clock3.gif"
-order: 2
+order: 3
 ---
 
 ***This project is currently in progress, and will be updated as I make more GIFs.***

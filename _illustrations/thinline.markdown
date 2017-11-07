@@ -3,7 +3,7 @@ layout: post
 title:  "Conversation Symbols"
 tile-name: "Conversation Symbols"
 thumbnail: "thinlineThumbnail.png"
-order: 13
+order: 14
 ---
 
 I created the below symbols as part of the "Thinline" line of communication symbols for Tobii Dynavox. Communication symbols like these are used by individuals who are unable to verbally communicate. The symbols are displayed to the user on an Augmentative and Alternative Communication device that can communicate for the user (such as the one Stephen Hawking uses). These specific symbols represent a wide array of general conversation topics, made for users who might wish to use these in daily conversations.

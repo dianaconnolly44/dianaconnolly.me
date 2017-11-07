@@ -3,7 +3,7 @@ layout: post
 title:  "Autism Symbols Research"
 tile-name: "Autism Symbols Research"
 thumbnail: "stickerThumbnail.png"
-order: 9
+order: 10
 ---
 
 ***This project is currently in progress, and will be updated once the research has been completed.***
