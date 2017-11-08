@@ -6,7 +6,7 @@ title: About
 <div class="small-12 medium-4 columns">
     <img src="img/diana.jpg" style="width:100%">
 
-    <a target="_blank" href="img/resume.pdf">
+    <a target="_blank" href="img/resume_nov17.pdf">
         <div class="aboutButton">Resume</div>
     </a>
     
