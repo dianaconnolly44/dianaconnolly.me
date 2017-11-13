@@ -33,6 +33,13 @@ As Graphics and Marketing Intern at Expii, I am now working on the project of cr
     <a href="https://www.expii.com/t/area-of-a-circle-767?type=problem&id=18060"><img src="/img/expii/turkey.gif" alt="Hero Image"></a>
     <p class="centered">Macy's Day Parade</p>
   </div>
+  
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/area-of-a-circle-767?type=problem&id=18060"><img src="/img/expii/hanukkah.gif" alt="Hero Image"></a>
+    <p class="centered">Hanukkah Candles</p>
+  </div>
+  
+  
 
 </div>
 
