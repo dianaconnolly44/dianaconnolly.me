@@ -43,6 +43,12 @@ As Graphics and Marketing Intern at Expii, I am now working on the project of cr
     <a href="https://www.expii.com/t/4255?type=problem&id=18062"><img src="/img/expii/bFriday-small.gif" alt="Hero Image"></a>
     <p class="centered">Black Friday</p>
   </div>
+  
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/word-problems-4278?type=problem&id=18300"><img src="/img/expii/ornaments-smallest.gif" alt="Hero Image"></a>
+    <p class="centered">Christmas Ornaments</p>
+  </div>
+  
 
 </div>
 
