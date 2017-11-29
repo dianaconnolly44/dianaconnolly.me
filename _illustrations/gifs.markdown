@@ -49,6 +49,11 @@ As Graphics and Marketing Intern at Expii, I am now working on the project of cr
     <p class="centered">Christmas Ornaments</p>
   </div>
   
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/altitude-above-or-below-a-sphere-8947?type=problem&id=18302"><img src="/img/expii/ribbon-small.gif" alt="Hero Image"></a>
+    <p class="centered">Christmas Ribbon</p>
+  </div>
+  
 
 </div>
 
