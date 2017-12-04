@@ -32,7 +32,7 @@ title: About
         </p>
 
         <p>
-        My interdisciplinary studies were fueled by my interest in visual perception, and I am currently interested in how to make the most effective visuals. As Degas put it, “art is not what you see, but what you make others see.”
+        My interdisciplinary studies are fueled by my interest in visual perception, with special interest in how to make the most effective visuals. As Degas put it, “art is not what you see, but what you make others see.”
         </p>
     </div>
 </div>
