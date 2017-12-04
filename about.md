@@ -22,6 +22,8 @@ title: About
 <div class="small-12 medium-7 columns">
     <div class="bio">
         <p>
+        <br>
+        <br>
         Hi! My name is Diana Connolly, and I’m a graphic artist currently living in the Steel City: Pittsburgh, PA.
         </p>
 
