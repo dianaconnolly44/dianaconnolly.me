@@ -58,7 +58,7 @@ To view the math problem that pairs with a certain GIF, please click on that GIF
   </div>
   
   <div class="small-12 medium-4 large-4 columns">
-    <a href="https://www.expii.com/t/word-problems-4278?type=problem&id=18300"><img src="/img/expii/NYE-smallest-4site.gif" alt="Hero Image"></a>
+    <a href="https://www.expii.com/t/word-problem-4230?type=problem&id=18549"><img src="/img/expii/NYE-smallest-4site.gif" alt="Hero Image"></a>
     <p class="centered">New Years Eve</p>
   </div> 
 
