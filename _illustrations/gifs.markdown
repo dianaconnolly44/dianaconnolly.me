@@ -48,15 +48,18 @@ To view the math problem that pairs with a certain GIF, please click on that GIF
   </div>
   
    <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/word-problems-4278?type=problem&id=18300"><img src="/img/expii/ornaments-smallest.gif" alt="Hero Image"></a>
+    <p class="centered">Christmas Ornaments</p>
+  </div> 
+  
+   <div class="small-12 medium-4 large-4 columns">
     <a href="https://www.expii.com/t/altitude-above-or-below-a-sphere-8947?type=problem&id=18302"><img src="/img/expii/ribbon-small.gif" alt="Hero Image"></a>
     <p class="centered">Christmas Ribbon</p>
   </div>
   
-  
-  
-   <div class="small-12 medium-4 large-4 columns">
-    <a href="https://www.expii.com/t/word-problems-4278?type=problem&id=18300"><img src="/img/expii/ornaments-smallest.gif" alt="Hero Image"></a>
-    <p class="centered">Christmas Ornaments</p>
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/word-problems-4278?type=problem&id=18300"><img src="/img/expii/NYE-smallest-4site.gif" alt="Hero Image"></a>
+    <p class="centered">New Years Eve</p>
   </div> 
 
 
