@@ -61,7 +61,22 @@ To view the math problem that pairs with a certain GIF, please click on that GIF
     <a href="https://www.expii.com/t/word-problem-4230?type=problem&id=18549"><img src="/img/expii/NYE-smallest-4site.gif" alt="Hero Image"></a>
     <p class="centered">New Years Eve</p>
   </div> 
+  
+<div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/combined-linear-systems-of-equations-and-inequalities-5037?type=problem&id=18473"><img src="/img/expii/skii.png" alt="Hero Image"></a>
+    <p class="centered">Winter Olympics</p>
+  </div>
 
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/logic-puzzles-and-brainteasers-10611?type=problem&id=18572"><img src="/img/expii/chinese_ny.png" alt="Hero Image"></a>
+    <p class="centered">Chinese New Year : Zodiac + Horoscope</p>
+  </div> 
+
+  <div class="small-12 medium-4 large-4 columns">
+    <a href="https://www.expii.com/t/combined-linear-systems-of-equations-and-inequalities-5037?type=problem&id=18473"><img src="/img/expii/groundhog.png" alt="Hero Image"></a>
+    <p class="centered">Groundhog Day</p>
+  </div>
+  
 
 </div>
 
