@@ -183,3 +183,8 @@ footer {
 .verticalSpace{
   margin-top: 50px;
 }
+
+
+.about-img {
+  user-select: none;
+}
